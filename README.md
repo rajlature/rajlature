@@ -111,5 +111,5 @@ A data pipeline project featuring CSV extraction, data transformation, MySQL loa
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajlature&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://ghchart.rshah.org/409ba5/rajlature" alt="GitHub contribution calendar" />
 </p>
