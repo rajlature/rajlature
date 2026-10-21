@@ -13,7 +13,6 @@ I enjoy solving problems, exploring new technologies, and developing software th
 
 ## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
 
 ### Programming Languages
 <p align="left">
